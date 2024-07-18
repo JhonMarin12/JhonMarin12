@@ -1,25 +1,22 @@
-# Hi, I'm Jhon Marin 🤘👨🏾‍💻
-![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# Hola, Me llamo Jhon🤘👨🏾‍💻
 
-My name is Jhon I'm Electrical Enginer and web development student. Here, I will add all the information and everything about my learning path to become a developer. 
+## Hola, soy Jhon. Actualmente soy ingeniero electricista y un apasionado de la programación y las ciencias de la computación. En este espacio, compartiré todo mi aprendizaje en mi camino autodidacta hacia convertirme en desarrollador de software.
 
----
-## Terminal Commands
-| Command     | Description |
-| ----------- | ----------- |
-| `pwd` | "**p**rint **w**orking **d**irectory", show the absolute path of the directory you are in. |
-| `cd` | "**c**hange **d**irectory", switches you to the directory. |
-| `mkdir` | Make a new directory. |
-| `exit`  | Close the terminal. |
-| `sudo`  | Commonly used to install or to edit filaes outside the user's home directory. |
+- 👨‍💻 Manejo tecnologías como: Python, SQL.
+- 📚 Estoy desarrollando habilidades para la analitica de datos
+- 💪🏼 Metas : Incursionar en el sector TI de forma autodidacta.
 
----
-## Alias
-| Alias       | Description |
-| ----------- | ----------- |
-|count|`find . -type f | wc -l'``|
-|gs   |`git status`|
-|gb   |`git branch`|
+
+
+<h2> Skills </h2>
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+   </a> 
+   
 <!--
 **JhonMarin12/JhonMarin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
